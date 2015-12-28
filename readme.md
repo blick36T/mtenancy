@@ -1,7 +1,7 @@
 #Survey Template with Laravel PHP Framework
 
 ## Survey Template
-Please read the clone.md to clone this project into your xampp installation
+Please read the [clone.md](https://github.com/blick36T/mtenancy/blob/master/clone.md) to clone this project into your xampp installation
 
 ## About Laravel PHP FRAMEWORK
 
