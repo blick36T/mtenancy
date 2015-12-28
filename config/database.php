@@ -54,7 +54,7 @@ return [
 
         'mysql' => [
             'driver'    => 'mysql',
-            'host'      => env('DB_ONE_HOST', '192.168.1.51'),
+            'host'      => env('DB_ONE_HOST', 'localhost'),
             'database'  => env('DB_ONE_DATABASE', 'forge'),
             'username'  => env('DB_ONE_USERNAME', 'forge'),
             'password'  => env('DB_ONE_PASSWORD', ''),
