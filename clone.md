@@ -1,12 +1,12 @@
-## Cloning Instructions of mtenancy repository for Windows
+# Cloning Instructions of mtenancy repository for Windows
 
-###Assumptions:
+##Assumptions:
 	1) Installed Xampp with php version >5.5.9 with OpenSSL extension and mysql
 	2) Installed composer with shell menu commands
 	3) Have Github account 
 	4) Have Github_Desktop installed for windows.
 	
-###Cloning Steps:
+##Cloning Steps:
 	1)  Open Github_Desktop and goto options menu. 
 	2)  Add blick36t account under <Accounts> and Add Name & github Account email under <Configure git>.
 	3)  Then clone the project into your local xampp>htdocs folder.
